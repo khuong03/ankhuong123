@@ -1,0 +1,130 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "img": "img/shop/shop-1.jpg",
+      "name": "Áo quần",
+      "description": "hihi",
+      "price": "50000"
+    },
+    {
+      "id": 2,
+      "img": "img/shop/shop-2.jpg",
+      "name": "Áo quần",
+      "description": "hihi",
+      "price": "50000"
+    },
+    {
+      "id": 3,
+      "img": "img/shop/shop-3.jpg",
+      "name": "Áo quần",
+      "description": "hihi",
+      "price": "50000"
+    },
+    {
+      "id": 4,
+      "img": "img/shop/shop-4.jpg",
+      "name": "Áo quần",
+      "description": "hihi",
+      "price": "50000"
+    },
+    {
+      "id": 5,
+      "img": "img/shop/shop-5.jpg",
+      "name": "Áo quần",
+      "price": "50000"
+    },
+    {
+      "id": 6,
+      "img": "img/shop/shop-6.jpg",
+      "name": "Áo quần",
+      "price": "50000"
+    },
+    {
+      "id": 7,
+      "img": "img/shop/shop-7.jpg",
+      "name": "Áo quần",
+      "price": "50000"
+    },
+    {
+      "id": 8,
+      "img": "img/shop/shop-8.jpg",
+      "name": "Áo quần",
+      "price": "50000"
+    },
+    {
+      "id": 9,
+      "img": "img/shop/shop-9.jpg",
+      "name": "Áo quần",
+      "price": "50000"
+    },
+    {
+      "id": 10,
+      "img": "../img/product/product-8.jpg",
+      "name": "Áo quần",
+      "price": "50000"
+    },
+    {
+      "id": 11,
+      "img": "../img/product/product-8.jpg",
+      "name": "Áo quần",
+      "price": "50000"
+    },
+    {
+      "id": 12,
+      "img": "../img/product/product-8.jpg",
+      "name": "Áo quần",
+      "price": "50000"
+    },
+    {
+      "id": 13,
+      "img": "../img/product/product-8.jpg",
+      "name": "Áo quần",
+      "price": "50000"
+    },
+    {
+      "id": 14,
+      "img": "../img/product/product-8.jpg",
+      "name": "Áo quần",
+      "price": "50000"
+    },
+    {
+      "id": 15,
+      "img": "../img/product/product-8.jpg",
+      "name": "Áo quần",
+      "price": "50000"
+    },
+    {
+      "id": 16,
+      "img": "../img/product/product-8.jpg",
+      "name": "Áo quần",
+      "price": "50000"
+    },
+    {
+      "id": 17,
+      "img": "../img/product/product-8.jpg",
+      "name": "Áo quần",
+      "price": "50000"
+    },
+    {
+      "id": 18,
+      "img": "../img/product/product-8.jpg",
+      "name": "Áo quần",
+      "price": "50000"
+    }
+  ],
+  "user": [
+    {
+      "name": "rewr",
+      "email": "erwrew@gmail.com",
+      "pass": "4324",
+      "id": 1
+    },
+    {
+      "name": "dsa",
+      "email": "dsada@gmail.com",
+      "pass": "123",
+      "id": 2
+    }
+  ]
+}
